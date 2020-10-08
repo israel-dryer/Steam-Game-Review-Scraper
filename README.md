@@ -1,5 +1,5 @@
 # Steam-Game-Review-Scraper
- Extract reviews and user info for any game on Steam.
+ Extract reviews and user info for any game on Steam.  (Unless you really just want to scrape this data... you are better of just using the API, which I didn't know about when I wrote this code) >> https://github.com/woctezuma/download-steam-reviews.
  
 ## Requirements
 You'll need to install the following libraries before beginning this project:
